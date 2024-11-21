@@ -15,6 +15,12 @@ Acesse o link da api: https://petstore.swagger.io/
 
 # 🔨 Estrutura dos testes da API🔨  #
 + **Pets:** CRUD (Create, Read, Update, Delete) para gerenciar informações sobre animais de estimação, como nome, status (disponível, pendente, vendido), etc
++  **Endpoints comuns:**
++  GET /pet/{petId}: Recupera informações de um pet específico pelo ID.
++  POST /pet: Adiciona um novo pet.
++ PUT /pet: Atualiza informações de um pet existente.
++ DELETE /pet/{petId}: Remove um pet pelo ID.
+  
 
 
 
