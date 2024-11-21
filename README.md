@@ -20,6 +20,11 @@ Acesse o link da api: https://petstore.swagger.io/
 +  POST / https://petstore.swagger.io/v2/pet: Adiciona um novo pet.
 + PUT /https://petstore.swagger.io/v2/pet: Atualiza informações de um pet existente.
 + DELETE /https://petstore.swagger.io/v2/pet/{id} Remove um pet pelo ID.
+
+# 📈Testando a API no Postman📈  #
+No Postman foi adcionado a collection da API PetStore, além de realizar os testes de CRUD, também realizei algumas validações, como por exemplo: Status code 200, conteúdo do body e teste de contrato. 
+
+![Teste da API no Postman](https://imgur.com/cVb16bc.png)
   
 
 
