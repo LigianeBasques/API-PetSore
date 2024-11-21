@@ -1,2 +1,5 @@
-# API-PetStore
-Teste da API PetStore  inclui operações como adicionar, buscar, atualizar e deletar informações sobre animais de estimação, lojas e usuários.
+# 🦴API-PetStore🦴 #
+
+# 👀Visão Geral👀 #
+A API Petstore simula um sistema de gerenciamento de informações para uma loja de animais de estimação. 
+
